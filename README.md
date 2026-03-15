@@ -1,5 +1,4 @@
-# Watch me Build the Lab Here 
- https://www.loom.com/share/db9da8a16f0d451ca61183cf48bb5839
+# 🎥[Watch me Building and Hosting a Static Website](https://www.loom.com/share/db9da8a16f0d451ca61183cf48bb5839)
 
 # Building and Hosting a Static Website with Azure Storage
 
